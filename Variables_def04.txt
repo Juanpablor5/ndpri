@@ -1,0 +1,24 @@
+Variables:------------------------------------
+val_st01 -> Hora de análisis
+val_in01 -> Volumen de alicuota
+val_in02 -> Dilución 1: volumen alicuota
+val_in03 -> Dilución 1: volumen aforo
+val_in04 -> Concentración del titulante
+val_in05 -> Volumen titulante blanco (1)
+val_in06 -> Volumen titulante muestra (2)
+val_in07 -> Dilución 2: volumen alicuota
+val_in08 -> Dilución 2: volumen aforo
+obs_erva -> Observación
+
+Reportes:-------------------------------------
+emp_rep1 -> fec_rep1
+emp_rep2 -> fec_rep2
+emp_rep3 -> fec_rep3
+emp_rep4 -> fec_rep4
+
+Códigos de muestra:---------------------------
+BLANCO = 100000002
+STD_200 = 100000004
+FAS = 100000006
+LC_20 = 100000007
+BFL_50 = 100000008
